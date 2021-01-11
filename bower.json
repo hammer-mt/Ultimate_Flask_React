@@ -1,0 +1,21 @@
+{
+  "name": "Ultimate_Flask_React",
+  "homepage": "https://github.com/mjt145/Ultimate_Flask_React",
+  "authors": [
+    "Michael Taylor <redacted@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^15.1.0"
+  }
+}
